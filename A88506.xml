@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons remembrancer: or, a timely admonition to the citizens of London, (more especially the L. Mayor, aldermen, common-councell, and others in authority) to endeavour a speedy accommodation with his Majesty : that his Majesties undoubted rights may be restored, the kingdoms just liberties maintained, and the further effusion of Christian blood prevented. / By a lover of his King and countrey.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88506</idno><idno type="EEBO-CITATION">99864342</idno>
+  <idno type="VID">161668</idno>
+  <idno type="EEBO-PROQUEST">2240909321</idno>
+  
+            <idno type="STC">Wing L2950</idno>
+            <idno type="STC">Thomason E441_8</idno>
+            <idno type="STC">ESTC R204890</idno>
+            <idno type="PROQUEST">99864342</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864342e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161668)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons remembrancer: or, a timely admonition to the citizens of London, (more especially the L. Mayor, aldermen, common-councell, and others in authority) to endeavour a speedy accommodation with his Majesty : that his Majesties undoubted rights may be restored, the kingdoms just liberties maintained, and the further effusion of Christian blood prevented. / By a lover of his King and countrey.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.l.,]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "May. 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161668:1"/>
+            <p>LONDONS Remembrancer: Or, a timely ADMONITION TO THE Citizens of London, (More especially the L. Mayor, Alder<g ref="char:EOLhyphen"/>men, Common-Councell, and others in Authority) To indeavour a speedy Accommodation WITH His Majesty: That his Majesties undoubted Rights may be restored, the Kingdoms just Liberties maintained, and the further effusion of Christian blood prevented.</p>
+            <p>
+               <hi>By a lover of his King and Countrey.</hi>
+            </p>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161668:2"/>
+            <pb n="1" facs="tcp:161668:2"/>
+            <head>
+               <hi>Londons Remembrancer:</hi> OR, A Timely admonition to the Citi<g ref="char:EOLhyphen"/>zens of London; more especially the Lord Mayor, Aldermen, Common-Councell, and others in Authority: <hi>To endeavour a speedy Accommodation with His Maiesty.</hi>
+            </head>
+            <opener>
+               <salute>My Lord, and Gentlemen,</salute>
+            </opener>
+            <p>THe desire I have of the weale publike in gene<g ref="char:EOLhyphen"/>rall, and in particular of every one of your safeties, I attestate God the searcher of all hearts, to witnesse, is the sole and onely cause of my addres<g ref="char:EOLhyphen"/>sing these lines unto you: I hope they will come as words spoken in due season, and work so effectually with every one of you, as may seasonably prevent the further effusion of blood.</p>
+            <p>First then, I humbly and heartily desire your Lordship and the rest respectively, that you would every one of you cast an eye back, and maturely contemplate, what unnaturall effusion of bloud hath been made these five or six yeares past, in many parts of His sacred Majesties Dominions: and then
+<pb n="2" facs="tcp:161668:3"/> seriously ponder in the name and feare of God, that if the bloud of <hi>Abel</hi> cried out to heaven for venge<g ref="char:EOLhyphen"/>ance, what shall the blood of so many Nobles, Gentry and others cry for against the Causers of it?</p>
+            <p>Secondly, call to minde I as earnestly beseech you, that old and true Adage, <hi>Iniquissima pax justis<g ref="char:EOLhyphen"/>simo bello anteferenda,</hi> That peace, though upon un<g ref="char:EOLhyphen"/>equall termes, is to be more highly valued then the justest warre; by the one your City (as formerly) may long flourish, by the other it is like to prove either a second Aceldama, or Gomorrha.</p>
+            <p>
+               <hi>Thirdly, forget not, that the same God whom you professe to believe in, who was borne in the reigne of Augustus Caesar, in whose time peace reigned over the face of the whole Vniverse, onely died to make our peace, and left his heavenly blessing to all those that pursue and seek after peace, saying, <hi>Blessed be the peace-makers, for theirs is the kingdome of Heaven.</hi> O then how eternally happy may ye be, if ye prove but the happy instruments of ma<g ref="char:EOLhyphen"/>king up that breach that now lieth wide a<g ref="char:EOLhyphen"/>mong us, by seeking after, and speedy set<g ref="char:EOLhyphen"/>ling a happy peace.</hi>
+            </p>
+            <pb n="3" facs="tcp:161668:3"/>
+            <p>Fourthly, I auspiciously desire you to consider, what the wished fruits of peace are, and what desolation and destruction attends upon warre: by the former, as the old saying is, small things grow great, by the latter great things small; <hi>Concor<g ref="char:EOLhyphen"/>diâ res parvae crescunt, Discordiâ magnae dilabuntur.</hi>
+            </p>
+            <p>Fifthly, I earnestly implore you serious<g ref="char:EOLhyphen"/>ly to peruse the ancient Annalls, who reads the Chronicles (I am unwilling almost to mention them) shall unfortunately finde how ominously this City was once bran<g ref="char:EOLhyphen"/>ded for its Rebellion in Henry the thirds time, and had not the mercy of God and the good King been above her deserts, doubtlesse utter ruine and devastation had been the scourge long since for her then unhappy rebellion. I pray God the cause be not too much yours, and that you have not onely paralleld, but also outvied their unhappie proceedings, under as gracious a Prince as ever swayed the Scepter; whose piety to God, whose love and mercy to his
+<pb n="4" facs="tcp:161668:4"/> Subjects, whose incomparable wisdome in manna<g ref="char:EOLhyphen"/>ging all his affaires, whose patience in all his unjust and direfull sufferings, whose readinesse and wil<g ref="char:EOLhyphen"/>lingnesse to forget and forgive former injuries, may justly stile him <hi>Charles the Great,</hi> he being the glory and mirrour of all Christian Princes. They used as glorious and specious pretences as ever you did, asserting that they fought for Religion, King and Liberty; and have you not done the like? but see their sad Catastrophe, they were forced to subjecti<g ref="char:EOLhyphen"/>on at last, to their lasting shame and utter infamy: You may onely prevent that by your happy com<g ref="char:EOLhyphen"/>pliance with his most sacred Majesty. Be wise then as Serpents, lest you buy your repentance at too deare a rate: For vengeance is mine, saith the Lord, and I will repay it.</p>
+            <p>Sixthly, forget not to remember by whom Kings raigne, <hi>By me Kings raigne,</hi> saith the Lord of Hosts, whose command is, <hi>touch not mine Annoynted,</hi> as<g ref="char:EOLhyphen"/>serting, that the wrath of a King is like the roaring of a Lyon, shall Heavens great King, who is King of Kings, teach you to obey, and shall any Man<g ref="char:EOLhyphen"/>date from man animate you to the contrary? God forbid.</p>
+            <p>Seventhly, and lastly, I earnestly beg of you, as you tender the glory of God, the honour of his sa<g ref="char:EOLhyphen"/>cred Majestie, the happinesse either of this City in particular, or the whole Kingdome in generall, That you suffer not your selves any longer to bee misled under any specious pretences whatsoever, remembring, that it is better to obey God then
+<pb n="5" facs="tcp:161668:4"/> Man: Man cannot, he onely can save and deliver you; repent then, I say, repent while it is to day, least death and destruction fall upon you unawares: For know, and know for a certaine, that God is no lesse just then mercifull, and though slow, yet sure in punishing. If you be told by any of the false Prophets of the times, (I may rather justly stile them Hypocrites,) that you fight for Religion: tell them whosoever they be that so informe you, that you have justly a religious scruple concerning that particular, since not one place of Scripture gives you a lawfull liberty to hold up your hand against Gods Annointed, and your most lawfull Sove<g ref="char:EOLhyphen"/>raign, and both Religion, Law, and reason, com<g ref="char:EOLhyphen"/>mands the contrary: What Religion is it pray tell me? nay, rather, 'tis sure the Doctrine of Devills to shoot at the King for his safety. What Religi<g ref="char:EOLhyphen"/>on is it to thrust out the most able and Orthodox Divines, and to thrust in such as are oft times too too factious, too too illiterate? What Religion is it so to fight for the Liberty of the Subject▪ as to force whom some please either to give away all they have, or else to have it all unjustly taken from them?</p>
+            <p>Lastly, what Religion is it to massacre one the o<g ref="char:EOLhyphen"/>ther, when heaven saith, <hi>Thou shalt not murder?</hi> Well then, it being both against Religion, Law and Reason, to act any of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or the like enormous Commands, be it yours and every good Christians resolution to repent and sin no more, least a worst thing fall upon you.</p>
+            <pb n="6" facs="tcp:161668:5"/>
+            <p>Returne, I say once more, return in time to your due and accustomed Loyalty: let it be the glory of the wisest, most noble &amp; richest among you, to have your actions rather then your words speak aloud both to God and man; that you are hereaf<g ref="char:EOLhyphen"/>ter unanimously resolved to leave these by-paths of error, and with a firm and joynt consent to put in ex<g ref="char:EOLhyphen"/>ecution those heavenly summons, <hi>viz.</hi> to <hi>feare God,</hi> and <hi>honour the King;</hi> to <hi>give unto Caesar the things that are Caesars,</hi> and <hi>unto God the things that are Gods. Do this, and live for ever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
